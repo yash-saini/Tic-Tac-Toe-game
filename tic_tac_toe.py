@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb  7 23:48:05 2019
-
-@author: YASH SAINI
-"""
 import turtle as t
 import random
 def create_table():
